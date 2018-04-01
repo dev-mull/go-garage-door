@@ -1,4 +1,5 @@
 package main
+
 import (
 	"github.com/stianeikeland/go-rpio"
 	"github.com/gorilla/mux"
